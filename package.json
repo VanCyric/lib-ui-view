@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node ./node_modules/karma/bin/karma start"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VanCyric/lib-ui-view.git"
+  },
   "keywords": [
     "smarttv",
     "view",
@@ -13,7 +17,7 @@
     "lib"
   ],
   "author": "Roman Popov",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "backbone": "^1.2.3",
     "jquery": "^2.2.0",
@@ -29,5 +33,12 @@
     "karma-phantomjs-launcher": "^0.2.3",
     "phantomjs": "^2.1.2",
     "watchify": "^3.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/VanCyric/lib-ui-view/issues"
+  },
+  "homepage": "https://github.com/VanCyric/lib-ui-view#readme",
+  "directories": {
+    "test": "test"
   }
 }
