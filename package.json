@@ -1,0 +1,33 @@
+{
+  "name": "lib-ui-view",
+  "version": "1.2.2",
+  "description": "Backbone based view for SmartTV",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/karma/bin/karma start"
+  },
+  "keywords": [
+    "smarttv",
+    "view",
+    "backbone",
+    "lib"
+  ],
+  "author": "Roman Popov",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "jquery": "^2.2.0",
+    "lodash": "^4.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.19",
+    "karma-browserify": "^5.0.1",
+    "karma-jasmine": "^0.3.6",
+    "karma-mocha-reporter": "^1.1.5",
+    "karma-phantomjs-launcher": "^0.2.3",
+    "phantomjs": "^2.1.2",
+    "watchify": "^3.7.0"
+  }
+}
