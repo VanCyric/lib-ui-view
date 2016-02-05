@@ -1,4 +1,4 @@
-lib-ui-view (1.1.2)
+lib-ui-view (1.2.3)
 =====
 
 *Backbone based view for SmartTV*
@@ -1675,4 +1675,3 @@ default: true
 Since: 1.0.0
 
 - - -
-

@@ -1,6 +1,6 @@
 {
   "name": "lib-ui-view",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Backbone based view for SmartTV",
   "main": "index.js",
   "scripts": {
